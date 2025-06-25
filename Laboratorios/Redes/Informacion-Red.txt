@@ -1,0 +1,4 @@
+Hostname: BEL-205-LW-024 IPv4: 10.13.181.119 IPv6: fe80::8a73:2a0f:c3b8:2d0b%17
+Localhost: 10.0.38.10
+MAC: C8-5A-CF-0F-67-84
+
